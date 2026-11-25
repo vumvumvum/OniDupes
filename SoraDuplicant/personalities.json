@@ -1,0 +1,14 @@
+{
+  "LOCAL_SORA": {
+    "Printable": true,
+    "Name": "ソラ",
+    "Description": "緑の前髪から桃色の猫耳をのぞかせる、小さな整備士。配管に耳を当てると、水が届く前からのどを鳴らす。",
+    "Gender": "Female",
+    "StressTrait": "UglyCrier",
+    "JoyTrait": "BalloonArtist",
+    "HeadShape": "3",
+    "Eyes": "2",
+    "Hair": "5",
+    "Body": "1"
+  }
+}
